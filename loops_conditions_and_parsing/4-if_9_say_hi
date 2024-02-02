@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-
-#Bash script that prints Best School 10 times, but for the 9th iteration, displays Best School and then Hi on a new line.
+#list many many
 
 counter=0
 
@@ -13,4 +12,6 @@ do
     echo "Best School"
   ((counter++))
 done
+
+
 
